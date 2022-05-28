@@ -1,2 +1,4 @@
 # som
-Self-Organizing Map (Kohonen Self-Organizing Feature Map)
+A step-by-step implementation of Self-Organizing Map.
+
+![](demo.gif)
